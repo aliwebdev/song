@@ -11,7 +11,6 @@ function App() {
 
   return (
     <div>
-      <h2>Music Player</h2>
 
       <Song currentSong={currentSong} />
       <Player
